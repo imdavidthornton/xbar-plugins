@@ -28,7 +28,7 @@ COLORS=(${RED_GREEN_THEME[@]})
 MENUFONT="" #size=10 font=UbuntuMono-Bold"
 FONT=""
 MAX_PING=1000
-SITES=(google.com youtube.com wikipedia.org github.com)
+SITES=(saltash.thornton.com google.com)
 
 #grab ping times for all sites
 SITE_INDEX=0
